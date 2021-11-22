@@ -6,7 +6,7 @@ Before W. Avy hastily jumps into a risky business venture, let's analyze the wea
 By using the Hawaii.sqlite file (see 'Resources' folder), we can create a link to the local database and extract the data to perform our analysis. Daily temperatures were retrieved for the months of June and December to compare what the weather will be like in the summer and the winter. 
 
 ## Results
-Below are two dataframes summarizing the temperatures in Fahrenheit during June and December (June appearing first).
+Below are two dataframes summarizing the temperatures in Fahrenheit during June and December (June appearing on the left).
 
 ![June](june.png) 
 ![December](december.png) 
